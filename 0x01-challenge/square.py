@@ -1,7 +1,9 @@
 #!/usr/bin/python3
+""" Moudle for square class """
 
 
 class square():
+    """ Square class """
 
     width = 0
     height = 0
